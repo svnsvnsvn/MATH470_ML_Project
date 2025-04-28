@@ -1,7 +1,7 @@
 # Machine Learning Algorithm Project
 
 ## Overview
-This project provides hands-on implementation of key machine learning algorithms using real-world datasets. The project covers a comprehensive range of algorithms from supervised learning to unsupervised learning and deep learning, giving practical experience with the fundamental techniques in the field of machine learning.
+(This project)[] provides hands-on implementation of key machine learning algorithms using real-world datasets. The project covers a comprehensive range of algorithms from supervised learning to unsupervised learning and deep learning, giving practical experience with the fundamental techniques in the field of machine learning.
 
 ## Project Structure
 
